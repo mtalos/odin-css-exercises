@@ -8,12 +8,11 @@
     color: #0000ff;
 }
 
-.third {
+.adjust-font {
     font-size: 24px;
 }
 
 #fourth {
     background-color: hsl(120, 73%, 75%);
-    font-size: 24px;
     font-weight: bold;
 }
